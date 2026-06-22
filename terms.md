@@ -2,7 +2,7 @@
 
 **App:** ProgressPic
 **Effective date:** June 5, 2026
-**Last updated:** June 5, 2026
+**Last updated:** June 22, 2026
 
 These Terms of Use ("Terms") govern your download and use of the ProgressPic mobile application ("the App"). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
@@ -60,9 +60,9 @@ Your use of the App's information is at your own risk.
 
 ---
 
-## 5. HealthKit, Camera, Photos, Notifications
+## 5. Camera, Photos, Notifications
 
-If you grant the App access to Apple Health, the Camera, your Photo Library, or notifications, that access is used only as described in the Privacy Policy. You can revoke any permission at any time in iOS Settings.
+If you grant the App access to the Camera, your Photo Library, or notifications, that access is used only as described in the Privacy Policy. You can revoke any permission at any time in iOS Settings.
 
 ---
 

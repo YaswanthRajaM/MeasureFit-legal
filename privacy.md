@@ -2,7 +2,7 @@
 
 **App:** ProgressPic
 **Effective date:** June 5, 2026
-**Last updated:** June 5, 2026
+**Last updated:** June 22, 2026
 
 Thank you for using ProgressPic ("the App", "we", "us", "our"). Your privacy matters to us. This Privacy Policy explains what information the App handles, how it is used, and the choices you have.
 
@@ -43,16 +43,13 @@ If you grant the App permission to access your photo library or camera, Progress
 
 Photos you attach are stored as part of the entry (locally and, if enabled, in your private iCloud). The App does not upload your photos to any server we operate.
 
-### 1.4 HealthKit (if enabled)
-If you grant HealthKit permission, the App may read your weight samples from Apple Health to import existing logs and/or write the weight entries you create back to Apple Health. HealthKit data stays on your device and is governed by Apple's Health privacy controls. You can revoke HealthKit access at any time in iOS Settings → Health → Data Access & Devices.
-
-### 1.5 Notifications
+### 1.4 Notifications
 If you enable notifications, the App schedules local reminders (e.g. "log today's weight") on your device. These reminders are scheduled locally — no push server is involved.
 
-### 1.6 Purchases and subscriptions
+### 1.5 Purchases and subscriptions
 In-app purchases and subscriptions (e.g. ProgressPic Premium) are handled entirely by **Apple's App Store / StoreKit**. We receive a receipt token confirming entitlement status, but we do not receive your payment details, full name, email, or billing address. See Apple's privacy policy for details: https://www.apple.com/legal/privacy/
 
-### 1.7 Diagnostics
+### 1.6 Diagnostics
 We do **not** include any third-party analytics, advertising, or tracking SDKs in the App. If you opt in via iOS Settings → Privacy → Analytics & Improvements, Apple may share anonymous crash reports with us through App Store Connect. These reports do not personally identify you.
 
 ---
@@ -76,7 +73,6 @@ We do **not** sell or share your personal information.
 The App may interact with the following Apple-provided services on your behalf, governed by Apple's terms and privacy policy:
 
 - **iCloud / CloudKit** — your own private iCloud container.
-- **Apple Health (HealthKit)** — only with your explicit permission.
 - **App Store / StoreKit** — for purchases, subscriptions, and restore.
 - **WidgetKit** — to render Home Screen widgets using a copy of your data placed in a private App Group container on your device.
 
@@ -91,7 +87,6 @@ Because your data is stored on your device (and optionally in your iCloud), **yo
 - **Delete individual entries** — swipe to delete in the Progress tab.
 - **Delete all app data** — delete the App from your device. This removes the local Core Data store and the App Group container used by widgets.
 - **Delete iCloud copy** — iOS Settings → [your name] → iCloud → Manage Account Storage → ProgressPic → Delete Data.
-- **Reset HealthKit permissions** — iOS Settings → Health → Data Access & Devices → ProgressPic.
 
 ---
 
